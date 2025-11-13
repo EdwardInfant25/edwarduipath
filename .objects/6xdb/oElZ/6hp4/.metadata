@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome google - Google Search",
+  "Type": "Screen",
+  "Id": "6hp47xICI0mvR4tWrCf1gw",
+  "Reference": "5Pdd882wak6Ll1YNWRdktw/6hp47xICI0mvR4tWrCf1gw",
+  "ParentRef": "5Pdd882wak6Ll1YNWRdktw/oElZL-sgkk6BzwQziSA-sA",
+  "Created": "2025-11-12T07:57:05.0290172Z",
+  "Updated": "2025-11-12T07:57:05.0290172Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
